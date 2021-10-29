@@ -4,3 +4,4 @@ Takeaways:
 Strategies:
   Ask questions.
   Rewrite -notes.
+Shoutout to my fiance for encouraging me to take the leap and apply to Turing!
